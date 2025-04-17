@@ -1,22 +1,13 @@
 [
     {
-      "nom": "Amanida de llenties",
-      "ingredients": ["llenties", "tomàquet", "ceba", "oli d'oliva", "vinagre", "sal"],
-      "categoria": "amanida"
-    },
-    {
       "nom": "Truita d'espinacs",
-      "ingredients": ["ous", "espinacs", "oli d'oliva", "sal"],
-      "categoria": "plat principal"
-    },
-    {
-      "nom": "Pasta integral amb verdures",
-      "ingredients": ["pasta integral", "carbassó", "pebrot", "ceba", "oli d'oliva"],
-      "categoria": "plat principal"
-    },
-    {
-      "nom": "Arròs integral amb verdures",
-      "ingredients": ["arròs integral", "carbassó", "pebrot", "pastanaga", "oli d'oliva", "sal"],
+      "ingredients": {
+        "ous": "2",
+        "espinacs": "100g",
+        "oli d'oliva": "1 cullerada",
+        "sal": "al gust"
+      },
       "categoria": "plat principal"
     }
+ 
   ]
