@@ -1,0 +1,17 @@
+[
+    {
+      "nom": "Amanida de llenties",
+      "ingredients": ["llenties", "tomàquet", "ceba", "oli d'oliva", "vinagre", "sal"],
+      "categoria": "amanida"
+    },
+    {
+      "nom": "Truita d'espinacs",
+      "ingredients": ["ous", "espinacs", "oli d'oliva", "sal"],
+      "categoria": "plat principal"
+    },
+    {
+      "nom": "Pasta integral amb verdures",
+      "ingredients": ["pasta integral", "carbassó", "pebrot", "ceba", "oli d'oliva"],
+      "categoria": "plat principal"
+    }
+  ]
