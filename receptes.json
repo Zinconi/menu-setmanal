@@ -55,5 +55,298 @@
       "sal": "al gust"
     },
     "categoria": "plat calent"
+  },
+  {
+    "nom": "Arròs integral amb verdures",
+    "ingredients": {
+      "arròs integral": "80g",
+      "carbassó": "1/2 unitat",
+      "pebrot": "1/2 unitat",
+      "pastanaga": "1 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "vegetarià"
+  },
+  {
+    "nom": "Pollastre a la planxa amb carbassó",
+    "ingredients": {
+      "pit de pollastre": "150g",
+      "carbassó": "1 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust",
+      "pebre": "al gust"
+    },
+    "categoria": "proteïna"
+  },
+  {
+    "nom": "Crema de carbassa",
+    "ingredients": {
+      "carbassa": "200g",
+      "patata": "1 petita",
+      "ceba": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "sopa"
+  },
+  {
+    "nom": "Amanida grega",
+    "ingredients": {
+      "tomàquet": "1 unitat",
+      "pepino": "1/2 unitat",
+      "ceba": "1/4 unitat",
+      "formatge feta": "40g",
+      "olives negres": "6 unitats",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "amanida"
+  },
+  {
+    "nom": "Peix blanc amb bròquil al vapor",
+    "ingredients": {
+      "filet de lluç": "150g",
+      "bròquil": "150g",
+      "oli d'oliva": "1 cullerada",
+      "llimona": "1 rodanxa",
+      "sal": "al gust"
+    },
+    "categoria": "plat lleuger"
+  },
+  {
+    "nom": "Hamburgueses vegetals amb enciam i tomàquet",
+    "ingredients": {
+      "hamburguesa vegetal": "1 unitat",
+      "enciam": "2 fulles",
+      "tomàquet": "2 rodanxes",
+      "pa integral": "2 llesques",
+      "oli d'oliva": "1 culleradeta"
+    },
+    "categoria": "vegetarià"
+  },
+  {
+    "nom": "Espaguetis amb tomàquet natural i alfàbrega",
+    "ingredients": {
+      "espaguetis integrals": "80g",
+      "tomàquet natural": "2 unitats",
+      "alfàbrega": "1 cullerada",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "pasta"
+  },
+  {
+    "nom": "Mongeta tendra amb patata i ou dur",
+    "ingredients": {
+      "mongeta tendra": "150g",
+      "patata": "1 unitat",
+      "ou": "1",
+      "sal": "al gust",
+      "oli d'oliva": "1 cullerada"
+    },
+    "categoria": "plat típic"
+  },
+  {
+    "nom": "Truita de carbassó",
+    "ingredients": {
+      "ous": "2",
+      "carbassó": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "vegetarià"
+  },
+  {
+    "nom": "Lluç al forn amb verdures",
+    "ingredients": {
+      "lluç": "150g",
+      "carbassó": "1/2 unitat",
+      "pebrot": "1/2 unitat",
+      "ceba": "1/4 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "peix"
+  },
+  {
+    "nom": "Macarrons de blat sarraí amb sofregit",
+    "ingredients": {
+      "macarrons de blat sarraí": "80g",
+      "tomàquet triturat": "100ml",
+      "ceba": "1/2 unitat",
+      "all": "1 gra",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "sense gluten"
+  },
+  {
+    "nom": "Quinoa amb verdures i cigrons",
+    "ingredients": {
+      "quinoa": "70g",
+      "cigrons cuits": "100g",
+      "carbassó": "1/2 unitat",
+      "pebrot": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "vegetal"
+  },
+  {
+    "nom": "Ous durs amb amanida verda",
+    "ingredients": {
+      "ous": "2",
+      "enciam": "4 fulles",
+      "tomàquet": "1 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "ràpid"
+  },
+  {
+    "nom": "Pa amb tomàquet i pernil",
+    "ingredients": {
+      "pa integral": "2 llesques",
+      "tomàquet": "1 unitat",
+      "pernil salat": "2 talls",
+      "oli d'oliva": "1 cullerada"
+    },
+    "categoria": "senzill"
+  },
+  {
+    "nom": "Lentilles estofades amb pastanaga i porro",
+    "ingredients": {
+      "llenties": "80g",
+      "pastanaga": "1 unitat",
+      "porro": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "aigua": "250ml",
+      "sal": "al gust"
+    },
+    "categoria": "plat calent"
+  },
+  {
+    "nom": "Wok de pollastre i verdures",
+    "ingredients": {
+      "pit de pollastre": "150g",
+      "pebrot vermell": "1/2 unitat",
+      "pastanaga": "1 unitat",
+      "ceba": "1/2 unitat",
+      "salsa de soja baixa en sal": "1 cullerada",
+      "oli de sèsam": "1 culleradeta"
+    },
+    "categoria": "asiàtic-mediterrani"
+  },
+  {
+    "nom": "Gaspatxo amb ou dur",
+    "ingredients": {
+      "tomàquet": "3 unitats",
+      "pebrot verd": "1/2 unitat",
+      "cogombre": "1/2 unitat",
+      "pa sec": "1 llesca",
+      "all": "1/2 gra",
+      "oli d'oliva": "1 cullerada",
+      "vinagre": "1 culleradeta",
+      "ou": "1 (per decorar)",
+      "sal": "al gust"
+    },
+    "categoria": "fred"
+  },
+  {
+    "nom": "Ensaladilla russa lleugera",
+    "ingredients": {
+      "patata": "1 unitat",
+      "pastanaga": "1 unitat",
+      "pèsols": "50g",
+      "ou": "1",
+      "trossos de tonyina": "1 llauna",
+      "iogurt natural": "1 (per substituir la maionesa)",
+      "sal": "al gust"
+    },
+    "categoria": "amanida freda"
+  },
+  {
+    "nom": "Risotto de bolets",
+    "ingredients": {
+      "arròs arborio": "80g",
+      "bolets": "100g",
+      "ceba": "1/4 unitat",
+      "brou de verdures": "250ml",
+      "oli d'oliva": "1 cullerada",
+      "formatge parmesà ratllat": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "vegetarià"
+  },
+  {
+    "nom": "Bulgur amb verdures rostides",
+    "ingredients": {
+      "bulgur": "80g",
+      "albergínia": "1/2 unitat",
+      "carbassó": "1/2 unitat",
+      "pebrot": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "vegetal"
+  },
+  {
+    "nom": "Cuscús amb verdures i pollastre",
+    "ingredients": {
+      "cuscús": "80g",
+      "carbassó": "1/2 unitat",
+      "ceba": "1/4 unitat",
+      "pit de pollastre": "100g",
+      "espècies": "al gust",
+      "oli d'oliva": "1 cullerada"
+    },
+    "categoria": "clàssic"
+  },
+  {
+    "nom": "Tortellinis de ricotta i espinacs amb tomàquet",
+    "ingredients": {
+      "tortellinis farcits": "100g",
+      "tomàquet triturat": "100ml",
+      "ceba": "1/4 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "ràpid"
+  },
+  {
+    "nom": "Lluç arrebossat amb amanida",
+    "ingredients": {
+      "lluç": "150g",
+      "farina": "per arrebossar",
+      "ou": "1",
+      "enciam": "4 fulles",
+      "tomàquet cherry": "6 unitats",
+      "oli d'oliva": "per fregir",
+      "sal": "al gust"
+    },
+    "categoria": "per a infants"
+  },
+  {
+    "nom": "Sopa de peix amb fideus",
+    "ingredients": {
+      "peix blanc": "100g",
+      "pastanaga": "1/2 unitat",
+      "api": "1 branca",
+      "fideus fins": "40g",
+      "brou de peix": "300ml",
+      "oli d'oliva": "1 culleradeta",
+      "sal": "al gust"
+    },
+    "categoria": "sopa"
+  },
+  {
+    "nom": "Hummus amb palets de pastanaga i cogombre",
+    "ingredients": {
+      "hummus": "100g",
+      "pastanaga": "1 unitat",
+      "cogombre": "1/2 unitat"
+    },
+    "categoria": "snack"
   }
 ]
