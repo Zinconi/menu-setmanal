@@ -13,5 +13,10 @@
       "nom": "Pasta integral amb verdures",
       "ingredients": ["pasta integral", "carbassó", "pebrot", "ceba", "oli d'oliva"],
       "categoria": "plat principal"
+    },
+    {
+      "nom": "Arròs integral amb verdures",
+      "ingredients": ["arròs integral", "carbassó", "pebrot", "pastanaga", "oli d'oliva", "sal"],
+      "categoria": "plat principal"
     }
   ]
