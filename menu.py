@@ -2,19 +2,15 @@ import streamlit as st
 import json
 from collections import defaultdict
 
-# Carrega receptes
+# Carregar receptes
 with open("receptes.json", "r", encoding="utf-8") as f:
     receptes = json.load(f)
 
-# Index per accedir ràpidament a receptes per nom
 receptes_dict = {r["nom"]: r for r in receptes}
-
-# Dies de la setmana
 dies = ["Dilluns", "Dimarts", "Dimecres", "Dijous", "Divendres", "Dissabte", "Diumenge"]
-
-# Inicialització del menú setmanal
-st.title("🍽️ Planificador de Menú Setmanal")
 menu_setmanal = {}
+
+st.title("🍽️ Planificador de Menú Setmanal")
 
 for dia in dies:
     st.markdown(f"### 📅 {dia}")
@@ -32,15 +28,16 @@ for dia in dies:
 
 # 🛒 Botó per generar llista de la compra
 if st.button("📝 Generar llista de la compra"):
-    ingredients_totals = defaultdict(int)
-    
+    ingredients_totals = defaultdict(list)
+
     for dia in dies:
         for àpat in ["dinar", "sopar"]:
             nom_plat = menu_setmanal[dia][àpat]
             recepta = receptes_dict[nom_plat]
-            for ing in recepta["ingredients"]:
-                ingredients_totals[ing] += 1
+            for ing, quantitat in recepta["ingredients"].items():
+                ingredients_totals[ing].append(quantitat)
     
     st.subheader("🛍️ Ingredients totals per la setmana:")
-    for ing, qty in ingredients_totals.items():
-        st.write(f"- {ing} x{qty}")
+    for ing, quantitats in ingredients_totals.items():
+        llista_text = " + ".join(quantitats)
+        st.write(f"- {ing}: {llista_text}")
