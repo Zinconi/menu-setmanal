@@ -1,13 +1,59 @@
 [
-    {
-      "nom": "Truita d'espinacs",
-      "ingredients": {
-        "ous": "2",
-        "espinacs": "100g",
-        "oli d'oliva": "1 cullerada",
-        "sal": "al gust"
-      },
-      "categoria": "plat principal"
-    }
- 
-  ]
+  {
+    "nom": "Truita d'espinacs",
+    "ingredients": {
+      "ous": "2",
+      "espinacs": "100g",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "plat principal"
+  },
+  {
+    "nom": "Amanida de llenties",
+    "ingredients": {
+      "llenties cuites": "150g",
+      "tomàquet": "1 unitat",
+      "ceba": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "vinagre": "1 culleradeta",
+      "sal": "al gust"
+    },
+    "categoria": "amanida"
+  },
+  {
+    "nom": "Pasta integral amb verdures",
+    "ingredients": {
+      "pasta integral": "80g",
+      "carbassó": "1/2 unitat",
+      "pebrot": "1/2 unitat",
+      "ceba": "1/2 unitat",
+      "oli d'oliva": "1 cullerada",
+      "sal": "al gust"
+    },
+    "categoria": "plat principal"
+  },
+  {
+    "nom": "Salmó al forn amb patates",
+    "ingredients": {
+      "llom de salmó": "150g",
+      "patates": "1 mitjana",
+      "oli d'oliva": "1 cullerada",
+      "llimona": "1 rodanxa",
+      "sal": "al gust"
+    },
+    "categoria": "plat principal"
+  },
+  {
+    "nom": "Cigrons amb espinacs",
+    "ingredients": {
+      "cigrons cuits": "150g",
+      "espinacs": "100g",
+      "all": "1 gra",
+      "oli d'oliva": "1 cullerada",
+      "pebre vermell": "1/2 culleradeta",
+      "sal": "al gust"
+    },
+    "categoria": "plat calent"
+  }
+]
